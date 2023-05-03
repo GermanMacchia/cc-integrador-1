@@ -1,0 +1,27 @@
+.bsas-banner{
+    position: relative;
+}
+.bsas-banner__image{
+    filter: brightness(45%);
+    height: auto;
+    width: 100%;
+    object-fit: none;
+}
+
+.bsas-banner__info{
+    position: absolute;
+    color: white;
+    text-align: right;
+    width: 500px;
+    top: 18rem;
+    right: 9rem;
+}
+
+.li-short{
+    max-width: 150px;
+}
+
+li :hover{
+    color: white !important;
+}
+
